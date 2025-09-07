@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Eli B Tech Blog
+site_url: https://blog.ebr5.com
+theme:
+  name: material
