@@ -1,4 +1,10 @@
-site_name: Eli B Tech Blog
+site_name: Eli Burton Tech
+site_description: A blog about my tech projects
 site_url: https://blog.ebr5.com
+
 theme:
   name: material
+
+plugins:
+  - search
+  - blog
