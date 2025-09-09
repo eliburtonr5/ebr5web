@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Welcome
 
 Hi, I'm **Eli Burton** — a passionate IT Professional based in Colorado.
 
