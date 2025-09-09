@@ -17,18 +17,4 @@ With experience in [technologies, industries, or interests], I love building cre
   _Short description of the project, technologies used, and your role._  
   [View Project](#)
 
-- **[Project Name 2]**  
-  _Short description of the project, technologies used, and your role._  
-  [View Project](#)
-
 ---
-
-## Contact
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [your-github](https://github.com/your-github)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
-_Thanks for visiting!_

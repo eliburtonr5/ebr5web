@@ -51,3 +51,15 @@ plugins:
 
 repo_url: https://github.com/eliburtonr5/ebr5web
 repo_name: eli.burtonr5/ebr5web
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/eliburtonr5/ebr5web
+      name: Link to eliburtonr5 GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/eliburton22/
+      name: Link to eliburton22 LinkedIn
+    - icon: material/email-outline
+      link: mailto:eli@ebr5.com
+      name: Send an email to eli@ebr5.com
