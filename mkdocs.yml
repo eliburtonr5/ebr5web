@@ -3,21 +3,40 @@ site_description: A website about my professional portfolio and tech projects
 site_url: https://ebr5.com
 
 theme:
+  language: en
+  icon:
+    logo: material/nut
   name: material
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.top
   palette:
-    - scheme: default
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      scheme: auto
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to system preferences
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: deep orange
       accent: deep orange
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
-
-    - scheme: slate
+        name: Switch to light mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: deep orange
       accent: deep orange
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to dark mode
 
 plugins:
   - search
