@@ -6,10 +6,10 @@ theme:
   language: en
   icon:
     logo: material/nut
+    repo: fontawesome/brands/git-alt
   name: material
   features:
     - header.autohide
-    - navigation.tabs
     - navigation.top
   palette:
     # Palette toggle for automatic mode
@@ -40,3 +40,5 @@ theme:
 
 plugins:
   - search
+
+repo_url: https://github.com/eliburtonr5/ebr5web
