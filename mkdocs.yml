@@ -13,9 +13,14 @@ theme:
     - navigation.top
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.path
+    - toc.follow
     - search.suggest
     - search.highlight
-    - toc.integrate
     - content.code.annotate
     - content.code.copy
     - content.tabs.link
