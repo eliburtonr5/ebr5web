@@ -10,7 +10,7 @@ I created this website to post all my tech projects and other professional conte
 
 ---
 
-### Material for MKDocs
+### **Material for MKDocs**
 
 Material for MKDocs is an open source website generator that uses **Python**, **YAML**, and **Markdown** coding languages to create, build, and deploy websites. 
 - **Markdown** code is used for creating the content and documentation on the website.
@@ -19,13 +19,13 @@ Material for MKDocs is an open source website generator that uses **Python**, **
 
 ---
 
-### GitHub Repository
+### **GitHub Repository**
 
 The code used to create the website with **Material for MKDocs** is all stored in a repository named [ebr5web](https://github.com/eliburtonr5/ebr5web), under my account [eliburtonr5](https://github.com/eliburtonr5). GitHub also acts as the source for the deployment of the website through **CloudFlare Worker Pages**.
 
 ---
 
-### CloudFlare Worker Pages
+### **CloudFlare Worker Pages**
 
 CloudFlare Worker Pages acts as the deployment medium and website host for this website. 
 
