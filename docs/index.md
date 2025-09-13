@@ -1,7 +1,6 @@
 ---
 title: Welcome
 description: Homepage for the website
-icon: material/nut
 hide:
  - navigation
 ---
