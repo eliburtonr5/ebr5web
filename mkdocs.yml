@@ -29,24 +29,24 @@ theme:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       scheme: auto
-      primary: deep orange
-      accent: deep orange
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-auto
         name: Switch to system preferences
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep orange
-      accent: deep orange
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep orange
-      accent: deep orange
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
