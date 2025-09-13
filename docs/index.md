@@ -1,3 +1,11 @@
+---
+title: Welcome
+description: Homepage for the website
+icon: material/nut
+hide:
+ - navigation
+---
+
 # Welcome
 
 Hi, I'm **Eli Burton** — a passionate IT Professional based in Colorado.
