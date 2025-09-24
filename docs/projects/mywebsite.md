@@ -6,16 +6,19 @@ icon: material/web
 
 # My Website
 
-I created this website to post all my tech projects and other professional content. It is created using **Material for MKDocs** python and markdown based website generator, code is stored through a **GitHub Repository**, and the website is deployed through **CloudFlare Worker Pages** using my custom domain.
+I created this website to post all my tech projects and other professional content. 
+
+It is created using **Material for MKDocs** python and markdown based website generator, code is stored through a **GitHub Repository**, and the website is deployed through **CloudFlare Worker Pages** using my custom domain.
 
 ---
 
 ### **Material for MKDocs**
 
-Material for MKDocs is an open source website generator that uses **Python**, **YAML**, and **Markdown** coding languages to create, build, and deploy websites. 
-* **Markdown** code is used for creating the content and documentation on the website.
-* **YAML** code is used for defining the properties of the website, main website design, and extra plugins/content.
-* **Python** code is used to take the Markdown and YAML code and use the contents to build and deploy the website.
+Material for MKDocs is an open source website generator that uses **Python**, **YAML**, and **Markdown** coding languages to create, build, and deploy websites.
+
+  * **Markdown** code is used for creating the content and documentation on the website.
+  * **YAML** code is used for defining the properties of the website, main website design, and extra plugins/content.
+  * **Python** code is used to take the Markdown and YAML code and use the contents to build and deploy the website.
 
 ---
 
