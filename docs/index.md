@@ -19,7 +19,8 @@ I specialize in IT support and operations, with experience in Windows OS, Micros
 
 ## Projects
 
-- **My Website**  
+### **My Website**
+
  I created this website to post all my tech projects and other professional content. It is created using **Material for MKDocs** python and markdown based website generator, code is stored through a **GitHub Repository**, and the website is deployed through **CloudFlare Worker Pages** using my custom domain.
   [View Project](https://ebr5.com/projects/mywebsite/)
 
