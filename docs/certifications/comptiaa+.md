@@ -5,4 +5,4 @@ description: CompTIA A+ Certification
 
 # CompTIA A+ Certification
 
-pics\A+-png.png
+![comptia a+ logo](pics\A+-png.png)
