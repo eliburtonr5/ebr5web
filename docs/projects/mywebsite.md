@@ -1,41 +1,78 @@
 ---
 title: My Website
-description: Write up about my website build
-icon: material/web
+description: How the website is built, stored, and deployed
+draft: false
 ---
 
 # My Website
 
-I created this website to post all my tech projects and other professional content. 
 
-It is created using **Material for MKDocs** python and markdown based website generator, code is stored through a **GitHub Repository**, and the website is deployed through **CloudFlare Worker Pages** using my custom domain.
+This site is my portfolio and technical blog. It is built with Material for MkDocs, stored in GitHub, and deployed through Cloudflare Pages so updates go live automatically.
+
+## How it works
+
+
+The site is generated as a static website from Markdown content and YAML configuration.
+
+- I write content in `docs/` using Markdown files.
+- `mkdocs.yml` contains the site settings, theme, navigation, and plugins.
+- Material for MkDocs converts the Markdown and YAML into a static HTML website.
+- Cloudflare Pages publishes the built site and keeps it in sync with GitHub.
+
+
+## What each part does
+
+### Markdown
+
+
+Markdown is used for the page content, headings, lists, images, and links. It is the main way I add documentation, project descriptions, and notes.
+
+### YAML
+
+
+YAML is the configuration language for MkDocs. It defines:
+
+- site title and description
+- navigation structure
+- theme settings
+- plugins and extensions
+- extra files such as icons and assets
+
+### Python / Material for MkDocs
+
+
+Material for MkDocs is a Python-based static site generator. It reads the Markdown content and YAML config, then builds the site into HTML, CSS, and JavaScript files.
+
+I do not run Python in the browser. Python is only used during the build step to generate the site.
+
+
+## Repository and deployment
+
+The site source code lives in my GitHub repository [ebr5web](https://github.com/eliburtonr5/ebr5web).
+
+Cloudflare Pages is connected to that repository. When I push changes to the `main` branch, Cloudflare detects the update, rebuilds the site, and publishes the new version automatically.
+
+
+## Why this stack
+
+I chose this setup because it is:
+
+- easy to maintain with Markdown content
+- flexible through YAML configuration
+- fast to build as a static site
+- automatically deployable from GitHub via Cloudflare
+
+
+## What I included on the site
+
+The website includes:
+
+- project write-ups
+- certifications
+- link to code repository
+- a clean Material theme with responsive navigation
+### **More to come!**
 
 ---
 
-### **Material for MKDocs**
-
-Material for MKDocs is an open source website generator that uses **Python**, **YAML**, and **Markdown** coding languages to create, build, and deploy websites.
-
-  * **Markdown** code is used for creating the content and documentation on the website.
-  * **YAML** code is used for defining the properties of the website, main website design, and extra plugins/content.
-  * **Python** code is used to take the Markdown and YAML code and use the contents to build and deploy the website.
-
----
-
-### **GitHub Repository**
-
-The code used to create the website with **Material for MKDocs** is all stored in a repository named [ebr5web](https://github.com/eliburtonr5/ebr5web), under my account [eliburtonr5](https://github.com/eliburtonr5). GitHub also acts as the source for the deployment of the website through **CloudFlare Worker Pages**.
-
----
-
-### **CloudFlare Worker Pages**
-
-CloudFlare Worker Pages acts as the deployment medium and website host for this website. 
-
-It does so by linking to my GitHub repo and running the python deployment script for MKDocs inside of CloudFlare itself to build and deploy the site. It then hosts the site publicly using my custom domain name **ebr5.com**. 
-
-In addition, it will also continue to check the GitHub repo for any changes that have been pushed to the main branch and re-build and deploy the website seamlessly on its own.
-
----
-
-Eli Burton - Sept. 13 2025
+Eli Burton - 4/13/2026

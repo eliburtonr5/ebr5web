@@ -5,4 +5,4 @@ description: CompTIA A+ Certification
 
 # CompTIA A+ Certification
 
-![comptia a+ logo](ebr5.com/A+-png.png)
+![CompTIA A+ logo featuring a blue and white design with the text CompTIA A+ and a shield emblem](../Images/A+-png.png)
