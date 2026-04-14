@@ -13,7 +13,7 @@ Hi, I'm **Eli Burton** — a passionate IT Professional based in Colorado.
 
 ## About Me
 
-I specialize in IT support and operations, with experience in Windows OS, Microsoft, and Google administration in a school environment. [technologies, industries, or interests], I love building creative and impactful solutions.
+I specialize in IT support and operations, with experience in Windows OS, Microsoft, and Google Workspace support and basic administration in a school environment. I have a passion for creating impactful solutions and processes, solving complex technical problems, and managing technical systems.
 
 ---
 
