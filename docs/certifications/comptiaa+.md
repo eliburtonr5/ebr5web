@@ -5,7 +5,7 @@ description: CompTIA A+ Certification
 
 # CompTIA A+ Certification
 
-![CompTIA A+ Logo](../A+-png.png)
+![CompTIA A+ Logo](../Images/A+-png.png)
 
 ## Overview
 

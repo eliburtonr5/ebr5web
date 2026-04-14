@@ -21,7 +21,7 @@ I specialize in IT support and operations, with experience in Windows OS, Micros
 
 ### **My Website**
 
- I created this website to post all my tech projects and other professional content. It is created using **Material for MKDocs** python and markdown based website generator, code is stored through a **GitHub Repository**, and the website is deployed through **CloudFlare Worker Pages** using my custom domain.
-  [View Project](https://ebr5.com/projects/mywebsite/)
+This website is a portfolio built with Material for MkDocs that uses Markdown content and YAML configuration, stored in GitHub, and automatically deployed by Cloudflare Pages whenever changes are pushed. I chose this stack for its ease of maintenance, flexibility, fast static site generation, and automated deployment pipeline.
+[View Project](https://ebr5.com/projects/mywebsite/)
 
 ---
